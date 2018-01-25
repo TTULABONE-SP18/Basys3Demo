@@ -4,7 +4,7 @@
 module Top (
     input [1:0] sw,
     output [1:0] led
-)
+);
 
 // Implement the HalfAdder
 half_adder u1 (
